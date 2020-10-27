@@ -219,7 +219,6 @@ a {
   max-width: 500px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
 }
 
 .site-navigation li {
